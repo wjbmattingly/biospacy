@@ -18,6 +18,12 @@ BioSpaCy is a [spacy](www.spacy.io) pipeline for processing biology texts. Curre
 - SPECIESY (Plants only)
 - BINOMINAY (Plants only)
 
+# Installation
+
+```python
+pip install en_biospacy
+```
+
 # Usage
 
 ```python
