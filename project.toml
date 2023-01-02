@@ -1,5 +1,5 @@
 [pipeline_data]
-title = "biospacy"
+name = "biospacy"
 author = "W.J.B. Mattingly"
 url = "https://github.com/wjbmattingly/biospacy"
 version = "0.0.1"

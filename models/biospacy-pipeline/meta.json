@@ -1,0 +1,51 @@
+{
+  "lang":"en",
+  "name":"biospacy",
+  "version":"0.0.1",
+  "spacy_version":">=3.4.4,<3.5.0",
+  "description":"A spaCy pipeline for parsing biology texts. Data for the plant EntityRuler was found at: http://www.worldfloraonline.org/",
+  "author":"W.J.B. Mattingly",
+  "email":"",
+  "url":"https://github.com/wjbmattingly/biospacy",
+  "license":"",
+  "spacy_git_version":"77833bfef",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "sentencizer":[
+
+    ],
+    "plant_taxonomy":[
+      "DOMAIN",
+      "FAMILY",
+      "GENUS",
+      "KINGDOM",
+      "ORDER",
+      "PHYLUM-ANIMALIA",
+      "PHYLUM-BACTERIA",
+      "PHYLUM-FUNGI",
+      "PHYLUM-PLANTS",
+      "PHYLUM-PROTISTA",
+      "SPECIES",
+      "SUBFAMILY"
+    ]
+  },
+  "pipeline":[
+    "sentencizer",
+    "plant_taxonomy",
+    "binomina"
+  ],
+  "components":[
+    "sentencizer",
+    "plant_taxonomy",
+    "binomina"
+  ],
+  "disabled":[
+
+  ]
+}

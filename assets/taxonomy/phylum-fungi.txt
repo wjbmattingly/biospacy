@@ -1,0 +1,8 @@
+Ascomycota
+Basidiomycota
+Blastocladiomycota
+Chytridiomycota
+Glomeromycota
+Microsporidia
+Neocallimastigomycota
+Zygomycota
