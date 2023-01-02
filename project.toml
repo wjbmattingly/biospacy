@@ -1,0 +1,6 @@
+[pipeline_data]
+title = "biospacy"
+author = "W.J.B. Mattingly"
+url = "https://github.com/wjbmattingly/biospacy"
+version = "0.0.1"
+description = "A spaCy pipeline for parsing biology texts. Data for the plant EntityRuler was found at: http://www.worldfloraonline.org/"
