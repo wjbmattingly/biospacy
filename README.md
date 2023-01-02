@@ -13,9 +13,9 @@ BioSpaCy is a [spacy](www.spacy.io) pipeline for processing biology texts. Curre
 - CLASS (NOT INCLUDED YET)
 - FAMILY (Plants only)
 - SUBFAMILY (Plants only)
-- ORDERY (Plants only)
-- GENUSY (Plants only)
-- SPECIESY (Plants only)
+- ORDER (Plants only)
+- GENUS (Plants only)
+- SPECIES (Plants only)
 - BINOMINA (Plants only)
 
 # Installation
