@@ -1,6 +1,6 @@
 ![bispacy logo](https://github.com/wjbmattingly/biospacy/raw/main/images/biospacy-header.png)
 
-BioSpaCy is a [spacy](www.spacy.io) pipeline for processing biology texts. Currently, the pipeline uses heuristics (rules) to identify:
+BioSpaCy is a [spacy](www.spacy.io) pipeline for processing biology texts. Currently, the pipeline uses rulers and heuristics to identify:
 
 - DOMAIN
 - KINGDOM
@@ -16,7 +16,7 @@ BioSpaCy is a [spacy](www.spacy.io) pipeline for processing biology texts. Curre
 - ORDERY (Plants only)
 - GENUSY (Plants only)
 - SPECIESY (Plants only)
-- BINOMINAY (Plants only)
+- BINOMINA (Plants only)
 
 # Installation
 
