@@ -12,7 +12,7 @@ BioSpaCy is a [spacy](www.spacy.io) pipeline for processing biology texts. Curre
   - PHYLUM-PROTISTA
 - CLASS (NOT INCLUDED YET)
 - FAMILY (Plants only)
-- SUBFAMILYY (Plants only)
+- SUBFAMILY (Plants only)
 - ORDERY (Plants only)
 - GENUSY (Plants only)
 - SPECIESY (Plants only)
